@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810495789022",
+    "project_id": "pruebafire-eed24",
+    "storage_bucket": "pruebafire-eed24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810495789022:android:e731461ded5b3e32c4bf4f",
+        "android_client_info": {
+          "package_name": "com.example.pruebafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810495789022-3v17bs53ls97uc2phein3aha97lbmbks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFidN1rIwjfsOdG35xST5P8k-wazy7J90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810495789022-3v17bs53ls97uc2phein3aha97lbmbks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
